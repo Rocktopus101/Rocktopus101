@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rocktopus101 aka Veddaant Rajeshirke
 - 👀 I’m interested in ... learning new and innovative technologies
 - 🌱 I’m currently learning ... CSE at VIT Mumbai
-- 💞️ I’m looking to collaborate on ... webdev amd python projects
+- 💞️ I’m looking to collaborate on ... webdev and python projects
 - 📫 How to reach me ... email me at vedaantrajeshirke@icloud.com
 
 <!---
