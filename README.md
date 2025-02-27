@@ -1,7 +1,7 @@
 - Hey, it's @Rocktopus101 aka Veddaant Rajeshirke
 - Learning new and innovative technologies
 - Masters student at USC
-- Working on flutter, Web and Python projects
+- Working on SwiftUI, Flutter, Web and Python projects
 - Email me at vedaantrajeshirke@icloud.com
 
 <!---
